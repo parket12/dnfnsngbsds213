@@ -1,0 +1,14 @@
+C:\Users\xiaomi\source\repos\prakt9\prakt9\bin\Debug\net7.0\prakt9.exe
+C:\Users\xiaomi\source\repos\prakt9\prakt9\bin\Debug\net7.0\prakt9.deps.json
+C:\Users\xiaomi\source\repos\prakt9\prakt9\bin\Debug\net7.0\prakt9.runtimeconfig.json
+C:\Users\xiaomi\source\repos\prakt9\prakt9\bin\Debug\net7.0\prakt9.dll
+C:\Users\xiaomi\source\repos\prakt9\prakt9\bin\Debug\net7.0\prakt9.pdb
+C:\Users\xiaomi\source\repos\prakt9\prakt9\obj\Debug\net7.0\prakt9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xiaomi\source\repos\prakt9\prakt9\obj\Debug\net7.0\prakt9.AssemblyInfoInputs.cache
+C:\Users\xiaomi\source\repos\prakt9\prakt9\obj\Debug\net7.0\prakt9.AssemblyInfo.cs
+C:\Users\xiaomi\source\repos\prakt9\prakt9\obj\Debug\net7.0\prakt9.csproj.CoreCompileInputs.cache
+C:\Users\xiaomi\source\repos\prakt9\prakt9\obj\Debug\net7.0\prakt9.dll
+C:\Users\xiaomi\source\repos\prakt9\prakt9\obj\Debug\net7.0\refint\prakt9.dll
+C:\Users\xiaomi\source\repos\prakt9\prakt9\obj\Debug\net7.0\prakt9.pdb
+C:\Users\xiaomi\source\repos\prakt9\prakt9\obj\Debug\net7.0\prakt9.genruntimeconfig.cache
+C:\Users\xiaomi\source\repos\prakt9\prakt9\obj\Debug\net7.0\ref\prakt9.dll
